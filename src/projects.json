@@ -1,0 +1,52 @@
+{
+    "projects":[
+        {
+            "name":"rootedinnature",
+            "title": "square rooted in nature",
+            "imageData":[
+                {
+                    "url": "rootedinnature/homepage.png",
+                    "caption":"Homepage, where there is the main header which contains all the page links and routes, as well as capabilities for users to register and login."
+                },
+                {
+                    "url": "rootedinnature/dropdown.png",
+                    "caption": "drop"
+                }
+            ],
+            "description":"Website I developed to host a variety of different functions, including being used as a plant collection database where users can store and view plants they collected and information about them. It also contains interactive plant keys where users navigate binomial keys interactively to identify certain plant species they find.",
+            "website":"https://github.com/B-Musick/sqr_rooted_in_nature",
+            "github":"https://github.com/B-Musick/sqr_rooted_in_nature"
+        },
+        {
+            "name": "fitnessapp",
+            "title": "Fitness App",
+            "imageData": [
+                {
+                    "url": "rootedinnature/homepage.png",
+                    "caption": "Main screen the user first encounters to login to their account or register for one. The fitness app keeps track of each users individual workouts, calorie intake, etc."
+                }
+            ],
+            "description": "Android application developed for University Course Software Engineering, along with a team of 4 other group members. The app is to track the workouts, meals and calories of a user in order to improve their fitness. There is also an associated brand website that I setup along with one other group memebr to showcase our app and the development process",
+            "website_link": "",
+            "github_link": ""
+        },
+        {
+            "name": "graphmaker",
+            "title": "Graph Creator",
+            "imageData": [
+                {
+                    "url": "rootedinnature/homepage.png",
+                    "caption": "Main screen the user first encounters to login to their account or register for one. The fitness app keeps track of each users individual workouts, calorie intake, etc."
+                },
+                {
+                    "url": "rootedinnature/dropdown.png",
+                    "caption": "drop"
+                }
+            ],
+            "description": "Android application developed for University Course Software Engineering, along with a team of 4 other group members. The app is to track the workouts, meals and calories of a user in order to improve their fitness. There is also an associated brand website that I setup along with one other group memebr to showcase our app and the development process",
+            "website_link": "https://github.com/B-Musick/sqr_rooted_in_nature",
+            "github_link": "https://github.com/B-Musick/sqr_rooted_in_nature"
+        }
+        
+    ]
+}
